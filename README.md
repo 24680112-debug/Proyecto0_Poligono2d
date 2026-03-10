@@ -3,7 +3,7 @@ Explicación de como crear un polígono en 2d mediante código
 
 # 1. Se crea la estructura y se registra la escena
 ```bash
-import bpy
+import bpy    
 import math
 
 def crear_poligono_2d(nombre, lados, radio):
